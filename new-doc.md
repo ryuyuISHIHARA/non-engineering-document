@@ -1,6 +1,6 @@
 日本語でもOK
 
-# Title
+# Title Name
 
 ## sub title
 
