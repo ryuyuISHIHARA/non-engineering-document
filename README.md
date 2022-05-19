@@ -2,8 +2,11 @@
 This is a repository for training of document writing and managing in GitHub.
 
 This is a public repository without license.
-## hogehoge
-## fuga
+
+# New addition
+
+
+
 ## Make branch
 Make your branch
 You can feel safe to do whatever in your own branch 😄
