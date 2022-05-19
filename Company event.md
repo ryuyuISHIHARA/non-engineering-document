@@ -6,7 +6,8 @@
 - KW
 - TI
 - KoK
-- 
+- CY
+- IH
 ### Sponcers: 
 4. Toyota
    1. ER
