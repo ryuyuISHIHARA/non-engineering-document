@@ -21,3 +21,5 @@ After finishing your editing work, you may make a *pull request*.
 Communication is important for improvement.
 
 Let's see how we can review a document in GitHub
+
+ISHIHARA is HERE
