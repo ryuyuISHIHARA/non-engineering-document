@@ -1,7 +1,7 @@
 # Company Event 2022
 ## Summer Membership Training at Mt. Fuji
 ### Period: September 08-10, 2022
-### Location: Fuji Palace Hotel
+### Location: Fuji BIM Center
 ### Participants: 
 - KW
 - TI
